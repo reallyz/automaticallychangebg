@@ -20,3 +20,4 @@ https://www.google.com/
 
 ### remove the orginal jpg image
 why `not`
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
